@@ -2,7 +2,7 @@
 Este repositório é parte do meu percurso nessa jornada, onde estou explorando e aprendendo mais sobre Kotlin enquanto aplico meus conhecimentos prévios e adquiro novas habilidades.
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/priscila-batista-teixeira-androiddeveloper/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-batista-teixeira-androiddeveloper/)
 
 ![Teixeira-Pri GitHub stats](https://github-readme-stats.vercel.app/api?username=Teixeira-Pri&show_icons=true&theme=dracula)
 
