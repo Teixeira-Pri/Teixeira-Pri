@@ -1,16 +1,70 @@
-### Olá! Eu sou a Priscila 👋 e estou atualmente em um emocionante processo de transição de carreira. 
-Este repositório é parte do meu percurso nessa jornada, onde estou explorando e aprendendo mais sobre Kotlin enquanto aplico meus conhecimentos prévios e adquiro novas habilidades.
+# Olá! Eu sou a Priscila 👋
 
+Desenvolvedora Full Stack focada em construir soluções que resolvem problemas reais e chegam à produção.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-batista-teixeira-androiddeveloper/)
+Atuo com desenvolvimento web, automação de processos, integrações entre sistemas e aplicações Android nativas, utilizando tecnologias como Python, JavaScript, TypeScript e Kotlin.
 
-![Teixeira-Pri GitHub stats](https://github-readme-stats.vercel.app/api?username=Teixeira-Pri&show_icons=true&theme=dracula)
+## 🚀 Alguns projetos desenvolvidos
 
-## Tecnologias utilizadas
+### Digitalização de Relatórios Técnicos
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">  
-  <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">   
-</div><br/>
+Sistema completo para coleta e gerenciamento de relatórios em campo, eliminando processos manuais, uso de papel e envio manual de e-mails. Atualmente utilizado em ambiente real.
 
-Obrigada por visitar este repositório. Vamos aprender e crescer juntos!
+### Prospecção B2B Automatizada
+
+Pipeline de geração de leads construído com Python, SerpAPI e GitHub Actions, capaz de identificar empresas e contatos qualificados de forma automatizada.
+
+### Desenvolvimento Android
+
+Aplicações nativas utilizando Kotlin, MVVM, Coroutines, Retrofit e Clean Architecture.
+
+### Desenvolvimento Web
+
+Projetos focados em experiência do usuário, acessibilidade (A11y), integração com APIs REST e automação de fluxos operacionais.
+
+## 🛠️ Tecnologias
+
+### Backend
+
+* Python
+* Flask
+* REST APIs
+* SQL
+
+### Frontend
+
+* JavaScript
+* TypeScript
+* HTML
+* CSS
+
+### Mobile
+
+* Kotlin
+* Android
+* MVVM
+* Coroutines
+* Retrofit
+
+### DevOps e Ferramentas
+
+* Git
+* GitHub
+* GitHub Actions
+* CI/CD
+
+## 🎯 Atualmente estudando
+
+* Arquitetura de Software
+* Boas práticas de Backend
+* Testes automatizados
+* Performance e observabilidade
+* Acessibilidade Digital (A11y)
+
+## 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/priscila-batista-teixeira-desenvolvedora/
+
+---
+
+Acredito que projetos são uma das melhores formas de aprender. Por isso, mantenho aqui experimentos, estudos e aplicações reais que fazem parte da minha evolução como desenvolvedora.
