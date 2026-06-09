@@ -1,79 +1,142 @@
-# Olá! Eu sou a Priscila 👋
+# Olá, eu sou a Priscila 👋
 
-Profissional de tecnologia com experiência em suporte, processos e desenvolvimento de soluções digitais.
+Sou uma profissional de tecnologia com experiência em suporte, processos operacionais e desenvolvimento de soluções digitais.
 
-Atuo na criação de sistemas, automações e aplicações que resolvem problemas reais de negócio, combinando conhecimento operacional com habilidades técnicas em Python, JavaScript, TypeScript, Kotlin, SQL e APIs REST.
+Minha trajetória começou trabalhando diretamente com clientes, atendimento, rotinas administrativas, faturamento, suporte e operações. Hoje, aplico essa visão prática no desenvolvimento de sistemas, APIs, automações e aplicações que resolvem problemas reais de negócio.
 
-Minha trajetória começou muito antes da programação: trabalhando diretamente com clientes, operações e suporte. Essa experiência me ajuda a compreender as necessidades dos usuários e transformá-las em soluções práticas, escaláveis e utilizáveis no dia a dia.
+## 🚀 Principais projetos
 
-🚀 Alguns projetos desenvolvidos
+### Auto Insurance Fullstack
 
-### Digitalização de Relatórios Técnicos
+Sistema fullstack para cálculo de seguro automotivo, desenvolvido com foco em arquitetura, performance, observabilidade e regras de negócio.
 
-Sistema completo para coleta e gerenciamento de relatórios em campo, eliminando processos manuais, uso de papel e envio manual de e-mails.
+**Backend**
 
-✅ Utilizado diariamente em ambiente real.
+* Java 17
+* Spring Boot 3.2
+* PostgreSQL
+* Redis Cache
+* Bucket4j para Rate Limiting
+* Micrometer + Zipkin
+* Swagger/OpenAPI
+* Arquitetura em camadas
+* Clock injetável para testes determinísticos
+* Trace ID nos logs
 
-### Sistema Interno de Gerenciamento de Solicitações
+**Frontend**
 
-Plataforma para centralização de chamados, acompanhamento de demandas, priorização, rastreabilidade e controle operacional.
+* React
+* TypeScript
+* Tailwind CSS
+* React Query
+* Recharts
+* Vite
 
-Desenvolvido para resolver problemas reais de organização e gestão de solicitações.
+**Funcionalidades**
 
-### Prospecção B2B Automatizada
-
-Pipeline automatizado utilizando Python, SerpAPI e GitHub Actions para geração de leads qualificados e redução de atividades manuais.
-
-### Desenvolvimento Android
-
-Aplicações nativas utilizando Kotlin, MVVM, Coroutines, Retrofit e integração com APIs REST.
-
-### Desenvolvimento Web e Automação
-
-Projetos focados em integração entre sistemas, automação de processos, experiência do usuário e acessibilidade digital.
-
-🛠️ Tecnologias
-
-Backend
-• Python
-• Flask
-• FastAPI
-• SQL
-• PostgreSQL
-• APIs REST
-
-Frontend
-• JavaScript
-• TypeScript
-• HTML
-• CSS
-
-Mobile
-• Kotlin
-• Android
-• MVVM
-• Coroutines
-• Retrofit
-
-DevOps e Ferramentas
-• Git
-• GitHub
-• GitHub Actions
-• Docker
-• CI/CD
-
-🎯 Atualmente estudando
-
-• Arquitetura de Software
-• Testes Automatizados
-• Boas Práticas de Backend
-• Performance e Observabilidade
-• Acessibilidade Digital (A11y)
-
-📫 Contato
-
-LinkedIn: https://www.linkedin.com/in/priscila-batista-teixeira-desenvolvedora/
+* Cálculo de prêmio de seguro automotivo
+* Classificação de perfil de risco
+* Consulta de CEP
+* Aplicação de regras de negócio
+* Cache para otimização de performance
+* Controle de requisições
+* Visualização de dados no frontend
 
 ---
 
-Acredito que tecnologia gera mais valor quando resolve problemas reais. Por isso, meus projetos são construídos com foco em processos, usuários e resultados, e não apenas como exercícios de programação.
+### Digitalização de Relatórios Técnicos
+
+Sistema desenvolvido para substituir relatórios em papel, digitalização manual e envio manual de e-mails.
+
+**Stack**
+
+* Python
+* Flask
+* JavaScript
+* jsPDF
+* SMTP
+* GitHub Pages
+* Render
+
+**Resultado**
+
+* Preenchimento de relatórios pelo celular
+* Geração automática de PDF
+* Envio automático ao gestor
+* Redução de retrabalho
+* Sistema utilizado em ambiente real
+
+---
+
+### Prospecção B2B Automatizada
+
+Pipeline automatizado para geração e organização de leads qualificados.
+
+**Stack**
+
+* Python
+* pandas
+* SerpAPI
+* GitHub Actions
+
+**Resultado**
+
+* Automação de busca e classificação de leads
+* Geração de até 159 leads qualificados por rodada
+* Execução com custo zero de infraestrutura
+* Organização dos dados em planilha
+
+---
+
+### Projetos Android
+
+Aplicações nativas desenvolvidas com Kotlin, MVVM, Coroutines, Retrofit e consumo de APIs REST.
+
+**Tecnologias**
+
+* Kotlin
+* Android nativo
+* MVVM
+* Retrofit
+* Coroutines
+* LiveData
+* Clean Architecture
+
+---
+
+### Acessibilidade Web
+
+Projetos web com foco em acessibilidade digital, navegação por teclado, HTML semântico, leitores de tela, contraste, foco visível e integração com VLibras.
+
+---
+
+## 🛠️ Tecnologias
+
+**Backend**
+Java · Spring Boot · Python · Flask · FastAPI · APIs REST · SQL · PostgreSQL · Redis
+
+**Frontend**
+React · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
+
+**Mobile**
+Kotlin · Android · MVVM · Retrofit · Coroutines · LiveData
+
+**Ferramentas e práticas**
+Git · GitHub · GitHub Actions · Docker · CI/CD · Swagger/OpenAPI · Clean Architecture · Observabilidade
+
+## 🎯 Atualmente estudando
+
+* Java e Spring Boot
+* Arquitetura de Software
+* Testes Automatizados
+* SQL
+* Observabilidade
+* Boas práticas de backend
+* Acessibilidade Digital
+
+## 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/priscila-batista-teixeira-desenvolvedora/
+
+
+Acredito que tecnologia gera mais valor quando resolve problemas reais. Por isso, meus projetos são construídos com foco em usuários, processos, sistemas e resultados.
